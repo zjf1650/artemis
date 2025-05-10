@@ -11,10 +11,12 @@ members = [
 
 default-members = ["bin/artemis", "bin/cli"]
 
+resolver = "2" # 明确指定使用 resolver = "2" 以适配最新版本
+
 [workspace.dependencies]
 ## eth
-ethers = { version = "2", features = ["ws", "rustls"]}
-ethers-signers = "2.0"
+ethers = { version = "2.0.14", features = ["ws", "rustls"]}
+ethers-signers = "2.0.14"
 
 
 [profile.release]

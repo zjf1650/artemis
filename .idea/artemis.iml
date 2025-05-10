@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bin/artemis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/cli/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/artemis-core/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/artemis-core/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/clients/chainbound/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/clients/opensea-v2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/generator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/strategies/mev-share-uni-arb/bindings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/strategies/mev-share-uni-arb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/strategies/opensea-sudo-arb/bindings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/strategies/opensea-sudo-arb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/mev-share-arb/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

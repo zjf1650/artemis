@@ -13,10 +13,10 @@ opensea-stream = { git = "https://github.com/FrankieIsLost/opensea-stream-rs"}
 opensea-v2 = { path = "../../clients/opensea-v2" }
 
 ## async
-async-trait = "0.1.64"
+async-trait = "0.1.88"
 
 ## misc
-anyhow = "1.0.70"
-tracing = "0.1.37"
+anyhow = "1.0.98"
+tracing = "0.1.41"
 
 
